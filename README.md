@@ -1,5 +1,4 @@
-# Google Summer of Code 2025 — DeepMind (Jevon Mao)
-
+# GSoC 2025 Google DeepMind — Swift Code Examples for Google Gemini
 This repository serves as the master record of my work during **Google Summer of Code 2025** with **Google DeepMind**.  
 
 ---
